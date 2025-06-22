@@ -15,3 +15,4 @@ public class Main{
 }
 }
 ```
+![Mona the Octocat](https://octodex.github.com/images/original.png)
