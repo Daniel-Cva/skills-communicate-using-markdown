@@ -20,3 +20,9 @@ public class Main{
 width="200" align="right">
 
 <img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
+
+S.No|Name
+-|-
+1|Daniel
+2|Jabaraj
+    
